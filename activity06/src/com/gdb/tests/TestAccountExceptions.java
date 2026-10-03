@@ -49,6 +49,6 @@ public class TestAccountExceptions {
             System.out.println("[Test 5] Polymorphic Handler caught: " + e.getMessage() + " [PASS]");
         }
 
-        System.out.println("=== Complete Activity 6 exception handling tests and verify output ===");
+        System.out.println("All exception handling tests completed successfully!");
     }
 }
